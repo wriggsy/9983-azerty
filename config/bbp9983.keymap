@@ -244,7 +244,7 @@
                 -----------------------------------------------------------------------------------------------------------------------------------------------------
                  \    alt    |     W     |     X    |     C    |         V       |       B        |        N       |       M       |        $        |    Enter    /
                    -----------------------------------------------------------------------------------------------------------------------------------------------
-                              \      aA        |       0        |                    SPACE                  |          SYM          |       aA       /
+                              \      aA        |       0        |                    SPACE                  |          SYM          |         aA    /
                                 -------------------------------------------------------------------------------------------------------------------
         */
                  		&none                                                                                	&none
@@ -255,7 +255,7 @@
     &mtt LS(Q) Q	&mtt LS(S) S      &mtt LS(D) D	&mtt LS(F) F     &mtt LS(G) G	&mtt LS(H) H	&mtt LS(J) J	&mtt LS(K) K	&mtt LS(L) L        &kp BSPC
     &ALTL		&mtt LS(W) W      &mtt LS(X) X	&mtt LS(C) C     &mtt LS(V) V	&mtt LS(B) B	&mtt LS(N) N	&mtt LS(M) M	&mtt K_STOP LG(N)   &kp ENTER
 
-    		         &SHFT				 &mtt LG(A) K_PWR	      &kp SPACE			&EALT		 &SHIFT
+    		         &SHFT				 &mtt LG(A) K_PWR	      &kp SPACE			&EALT		 &sk LCTRL
 
             >;
         };
